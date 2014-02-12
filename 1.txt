@@ -1,2 +1,6 @@
 create a branch
+<<<<<<< HEAD
 branch of master
+=======
+branch of dev
+>>>>>>> dev
